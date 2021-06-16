@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "agorasim20.copper.armorandtools.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+  ],
+  "client": [
+    "CopperArmorAndToolsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

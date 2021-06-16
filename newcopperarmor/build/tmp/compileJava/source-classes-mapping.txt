@@ -1,0 +1,20 @@
+agorasim20/copper/armorandtools/armor/CopperArmor.java
+ agorasim20.copper.armorandtools.armor.CopperArmor
+agorasim20/copper/armorandtools/tools/PickaxeBase.java
+ agorasim20.copper.armorandtools.tools.PickaxeBase
+agorasim20/copper/armorandtools/tools/AxeBase.java
+ agorasim20.copper.armorandtools.tools.AxeBase
+agorasim20/copper/armorandtools/tools/HoeBase.java
+ agorasim20.copper.armorandtools.tools.HoeBase
+agorasim20/copper/armorandtools/armor/BaseArmor.java
+ agorasim20.copper.armorandtools.armor.BaseArmor
+agorasim20/copper/armorandtools/tools/ShovelBase.java
+ agorasim20.copper.armorandtools.tools.ShovelBase
+agorasim20/copper/armorandtools/mixin/CopperArmorAndToolsMixin.java
+ agorasim20.copper.armorandtools.mixin.CopperArmorAndToolsMixin
+agorasim20/copper/armorandtools/tools/SwordBase.java
+ agorasim20.copper.armorandtools.tools.SwordBase
+agorasim20/copper/armorandtools/CopperArmorAndTools.java
+ agorasim20.copper.armorandtools.CopperArmorAndTools
+agorasim20/copper/armorandtools/tools/CopperTools.java
+ agorasim20.copper.armorandtools.tools.CopperTools
