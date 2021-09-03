@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "copperarmorandtools",
+  "version": "${version}",
+
+  "name": "New Copper Armor & Tools",
+  "description": "Adds armor and tools made of copper",
+  "authors": [
+    "agorasim20"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/new-copper-armor-tools",
+    "sources": "https://github.com/agorasim20/coppermod",
+    "issues": "https://github.com/agorasim20/coppermod/issues"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/copperarmorandtools/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "agorasim20.copper.armorandtools.CopperArmorAndTools"
+    ]
+  },
+  "mixins": [
+    "copperarmorandtools.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  }
+}
